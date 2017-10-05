@@ -1,6 +1,6 @@
 {
   "name": "barn",
-  "main": "dist/barn.min.js",
+  "main": "dist/barn.js",
   "version": "0.2.1",
   "homepage": "https://github.com/arokor/barn",
   "authors": [
